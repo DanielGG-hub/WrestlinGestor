@@ -16,9 +16,12 @@
 
 # 
 
-# \# Gestión de la tabla proyectos
+# \# Botón gestionar proyectos
 
 * # Crear, editar, eliminar, buscar proyectos.
+* 
+
+
 
 # 
 
@@ -103,6 +106,26 @@
 # \---
 
 # 
+
+# Ver más
+
+# 
+
+# \# En el repositorio también se incluye:
+
+
+
+* # Un diagrama ER que representa el diseño de la base de datos.
+* # Un PDF para poder ver la interfaz gráfica de la app.
+* # Todo el código del proyecto organizado en la carpeta src.
+
+
+
+
+
+# \---
+
+
 
 # &#x20;Autor
 
